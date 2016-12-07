@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/08/Cool-Background-7.jpg");
       background-size: cover;
       color: white;
     }
@@ -28,6 +28,13 @@
       padding: 20px;
       margin: 0 auto;
     }
+    #profile{
+ width:  20px;
+height:  40px;
+}
+    
+    
+    
     @media (max-width: 500px) {
       h1 {
         font-size: 36px;
